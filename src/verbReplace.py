@@ -2,8 +2,10 @@ import nltk
 from nltk.tokenize import word_tokenize
 
 """verbReplace
+Parses a text and moves it to an output file, 
+except with all the verbs changed to corresponding tenses of yeet. 
 
-
+TODO: better documentation 
 """
 
 # VB verb, base form – take
